@@ -1,0 +1,13 @@
+# Binaries
+task-tracker
+*.exe
+
+# Go build artifacts
+*.out
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
